@@ -1,0 +1,22 @@
+{
+  "name": "alternate-layout",
+  "version": "1.0.0",
+  "description": "Parameterized alternating rotation layout for CraftML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/calebhsu/alternate-layout.git"
+  },
+  "keywords": [
+    "craftml"
+  ],
+  "author": "Caleb Hsu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/calebhsu/alternate-layout/issues"
+  },
+  "homepage": "https://github.com/calebhsu/alternate-layout"
+}
