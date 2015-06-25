@@ -8,7 +8,6 @@
             var deg = params.degrees
             var axis = params.axis
             
-            var ps = []
             for (var i = 0; i < n; i++){
                 var solid = scope.solids[i]
  
