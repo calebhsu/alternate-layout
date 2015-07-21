@@ -1,6 +1,6 @@
 {
   "name": "alternate-layout",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Parameterized alternating rotation layout for CraftML",
   "main": "index.js",
   "scripts": {

@@ -1,7 +1,11 @@
 <craft name="alternate-layout" grouping="off">
     <parameter name="degrees" type="int" default="90"/>
     <parameter name="axis" type="string" default="x"/>
-    <content></content>
+    <content>
+        <repeat n="5">
+            <prism></prism>
+        </repeat>
+    </content>
     <script>
         var n = scope.solids.length
         var deg = params.degrees
